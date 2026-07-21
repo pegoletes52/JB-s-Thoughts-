@@ -7,7 +7,7 @@
    la versión vieja para siempre, aunque subas los archivos
    correctos a GitHub. */
 
-const CACHE = 'jb-thoughts-v4';
+const CACHE = 'jb-thoughts-v5';
 const APP_SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-512-maskable.png'];
 
 self.addEventListener('install', (event) => {
